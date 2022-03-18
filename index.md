@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## Bio
 
-You can use the [editor on GitHub](https://github.com/atarashansky/atarashansky.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I was a Stanford Graduate Fellow and Bio-X Fellow in the Bioengineering PhD program at Stanford University. I am passionate about anything computational.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+During my PhD, I developed numerous algorithms for the analysis of single-cell RNA sequencing data. Specifically, I developed the first generalizable algorithm for mapping single-cell datasets across species. Now, it is possible to compare vastly different organisms to learn about how their cell types have diverged during evolution (https://elifesciences.org/articles/66747).
 
-### Markdown
+I am continuing this line of work as a Data Scientist at Chan Zuckerberg Biohub. In addition to the quantitative cell sciences, I have honed my skills as a full-stack software engineer in developing a web browser interface for interactively exploring and analyzing single-cell data (https://github.com/czbiohub/excellxgene).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/atarashansky/atarashansky.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+My other interests include blockchain development, rock climbing (I suppose I'm your typical Bay-Area-boulder-bro), and sci-fi.
