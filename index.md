@@ -4,4 +4,8 @@ I built iNoodl because I couldn't find any other applications that were capable 
 
 I'm very responsive to feature requests. In fact, I don't know what I would do without them. Please request features.
 
-Email inoodl.help@gmail.com for any and all questions and requests.
+Email [inoodl.help@gmail.com](inoodl.help@gmail.com) for any and all questions and requests.
+
+
+
+
