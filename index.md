@@ -7,5 +7,6 @@ I'm very responsive to feature requests. In fact, I don't know what I would do w
 Email [inoodl.help@gmail.com](inoodl.help@gmail.com) for any and all questions and requests.
 
 
-
+### Privacy Policy
+iNoodl does not collect or store any user data.
 
