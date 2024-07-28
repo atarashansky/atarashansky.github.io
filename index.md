@@ -1,9 +1,7 @@
-## Bio
+## iNoodl
 
-I was a Stanford Graduate Fellow and Bio-X Fellow in the Bioengineering PhD program at Stanford University. I am passionate about anything computational.
+I built iNoodl because I couldn't find any other applications that were capable of effortlessly capturing the ideas my ADHD brain would randomly pull from the ether. I have been using this app religiously since its creation. I hope it helps you as much as it has helped me.
 
-During my PhD, I developed numerous algorithms for the analysis of single-cell RNA sequencing data. Specifically, I developed the first generalizable algorithm for mapping single-cell datasets across species. Now, it is possible to compare vastly different organisms to learn about how their cell types have diverged during evolution (https://elifesciences.org/articles/66747).
+I'm very responsive to feature requests. In fact, I don't know what I would do without them. Please request features.
 
-I am continuing this line of work as a Data Scientist at Chan Zuckerberg Biohub. In addition to the quantitative cell sciences, I have honed my skills as a full-stack software engineer in developing a web browser interface for interactively exploring and analyzing single-cell data (https://github.com/czbiohub/excellxgene).
-
-My other interests include blockchain development, rock climbing (I suppose I'm your typical Bay-Area-boulder-bro), and sci-fi.
+Email inoodl.help@gmail.com for any and all questions and requests.
